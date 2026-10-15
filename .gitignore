@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea/
+.vscode/
+
+data/processed/
+
+*.log
+*.tmp
+pyproject.toml
+uv.lock
